@@ -1,0 +1,14 @@
+Admin Mail & Password
+admin@mail.com
+123
+
+Docdor Mail & Password
+doctor@mail.com
+123
+
+Parient Mail & Password
+patient@mail.com
+123
+
+Database Name is "edoc"
+
